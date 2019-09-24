@@ -1,6 +1,0 @@
-This project is to get data series from images. 
-
-reference: 
-	https://automeris.io/WebPlotDigitizer
-
-	MatPlotLib.
